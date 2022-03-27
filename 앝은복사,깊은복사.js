@@ -39,3 +39,4 @@ user.emails.push('tktmddnjs@gmail.com')
 console.log(user.emails === copyUser.emails)    // true
 console.log('user', user)               // {0: dfg1425@gmail.com, 1: tktmddnjs@gmail.com}
 console.log('copyUser', copyUser)       // {0: dfg1425@gmail.com, 1: tktmddnjs@gmail.com}
+
